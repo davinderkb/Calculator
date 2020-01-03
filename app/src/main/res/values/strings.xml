@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="plus_operator">+</string>
+    <string name="minus_operator">-</string>
+    <string name="divide_operator">/</string>
+    <string name="multiply_operator">x</string>
+    <string name="toast_warn_invalid_equation">Invalid input. Try using scientific calculator, That might help you :)</string>
+    <string name="toast_warn_del_long_press"><![CDATA[Press & hold DEL to clear text]]></string>
+    <string name="toast_warn_invalid_first_input">Enter some number before using this operator </string>
+    <string name="invalid_input">Try entering some Number</string>
+    <string name="last_number_missing">Number is missing after the last operator</string>
+</resources>

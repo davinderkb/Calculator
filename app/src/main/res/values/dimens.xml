@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingSpace">0dp</dimen>
+    <dimen name="numberButtonSize">40dp</dimen>
+    <dimen name="operatorButtonSize">40dp</dimen>
+</resources>
